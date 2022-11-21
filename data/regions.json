@@ -1,0 +1,11 @@
+{
+  "regions": {
+    "ca": "+1 Canada",
+    "us": "+1 USA",
+    "nl": "+31 Netherlands",
+    "fr": "+33 France",
+    "es": "+34 Spain",
+    "en": "+44 England",
+    "de": "+49 Germany"
+  }
+}
